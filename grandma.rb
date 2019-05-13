@@ -15,7 +15,7 @@ message = gets.chomp
 
 if message == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elsif message.upcase !== "I LOVE YOU GRANDMA!"
+elsif message.upcase != "I LOVE YOU GRANDMA!"
   puts "NO, NOT SINCE 1938!"
 else
   puts "HUH?! SPEAK UP, SONNY!"

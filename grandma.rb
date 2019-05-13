@@ -14,4 +14,4 @@
 message = gets.chomp
 
 if message == "I LOVE YOU GRANDMA!"
-  puts ""
+  puts "I LOVE YOU TOO PUMPKIN!"

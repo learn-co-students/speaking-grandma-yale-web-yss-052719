@@ -15,3 +15,4 @@ message = gets.chomp
 
 if message == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
+elif message.upcase != 

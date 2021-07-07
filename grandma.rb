@@ -1,4 +1,9 @@
 # Write a speak_to_grandma method.
+speak_to_grandma l3{
+  if (l3.upcase !== l3)
+  return("HUH?! SPEAK UP, SONNY!")
+  
+}
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
